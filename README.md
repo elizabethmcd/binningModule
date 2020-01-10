@@ -1,0 +1,3 @@
+# Metagenomic Binning Teaching Module
+
+This repository contains teaching materials, demonstrations, and slide decks for teaching a mini Metagenomic Binning Workshop Module at the University of Wisconsin - Madison. This lesson uses data from [Scarborough 2018: "Metatranscriptomic and Thermodynamic Insights into Medium-Chain Fatty Acid Production Using an Anaerobic Microbiome"](https://msystems.asm.org/content/3/6/e00221-18). 
