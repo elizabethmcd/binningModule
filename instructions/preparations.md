@@ -78,11 +78,11 @@ Switchgrass_CR_Fermentation_Bioreactor_12d  SRS2688104
 
 Feed the SRA numbers to the SRA toolkit `downloadSRRs.sh` script usage with `./downloadSRR.sh mfca-metagenomes-srrs.txt with the list: 
 ```
-SRS2688102
-SRS2688101
-SRS2688103
-SRS2688105
-SRS2688104
+SRX3393715
+SRX3393718
+SRX3393717
+SRX3393720
+SRX3393719
 ```
 This will download paired-end read files of each metagenomic experiment. 
 
