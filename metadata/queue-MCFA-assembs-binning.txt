@@ -1,0 +1,5 @@
+/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/assemblies/final_assemblies/mcfa02_assembly_contigs.fasta
+/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/assemblies/final_assemblies/mcfa120_assembly_contigs.fasta
+/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/assemblies/final_assemblies/mcfa48_assembly_contigs.fasta
+/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/assemblies/final_assemblies/mcfa84_assembly_contigs.fasta
+/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/assemblies/final_assemblies/mcfa96_assembly_contigs.fasta

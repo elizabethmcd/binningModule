@@ -1,0 +1,5 @@
+mcfa120_assembly	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa120_R1.fastq	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa120_R2.fastq
+mcfa84_assembly	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa84_R1.fastq	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa84_R2.fastq
+mcfa96_assembly	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa96_R1.fastq	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa96_R2.fastq
+mcfa02_assembly	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa02_R1.fastq	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa02_R2.fastq
+mcfa48_assembly	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa48_R1.fastq	/home/GLBRCORG/emcdaniel/mcfaData/metagenomes/cleaned_fastqs/mcfa48_R2.fastq
