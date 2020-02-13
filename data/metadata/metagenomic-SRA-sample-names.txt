@@ -1,6 +1,0 @@
-Sample_name SRA
-Switchgrass_CR_Fermentation_Bioreactor_120d SRX3393715
-Switchgrass_CR_Fermentation_Bioreactor_96d  SRX3393718
-Switchgrass_CR_Fermentation_Bioreactor_84d  SRX3393717
-Switchgrass_CR_Fermentation_Bioreactor_48d  SRX3393720
-Switchgrass_CR_Fermentation_Bioreactor_12d  SRX3393719
